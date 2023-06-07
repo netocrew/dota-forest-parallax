@@ -2,4 +2,5 @@
 - HTML
 - CSS
 - JS
+
 Parallax Effect 
